@@ -1,6 +1,6 @@
 {
   "name": "@digitalbazaar/age-verification-context",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "NPM package for the JSON-LD context for OverAge credentials.",
   "main": "js/index.js",
   "module": "./dist/context.esm.js",
