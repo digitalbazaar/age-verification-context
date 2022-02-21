@@ -1,5 +1,5 @@
 # @digitalbazaar/age-verification-context ChangeLog
 
-## 1.0.0 - TBD
+## 1.0.0 - 2022-02-21
 
 Initial version.
