@@ -7,6 +7,9 @@
   [Registry](https://json-ld.github.io/cbor-ld-spec/#term-codec-registry).
 - Add built contexts to source control for use with GitHub pages.
 
+### Fixed
+- Change context `@protected` value to boolean.
+
 ## 2.0.0 - 2022-03-09
 
 ### Changed
