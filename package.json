@@ -7,7 +7,8 @@
   "files": [
     "contexts",
     "dist/context.js",
-    "js"
+    "dist/context.esm.js",
+    "js/**/*.js"
   ],
   "repository": {
     "type": "git",
