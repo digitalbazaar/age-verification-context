@@ -1,16 +1,15 @@
 # Age Verification Context _(@digitalbazaar/age-verification-context)_
 
-[![Node.js CI](https://github.com/digitalbazaar/age-verification-context/workflows/Node.js%20CI/badge.svg)](https://github.com/digitalbazaar/age-verification-context/actions?query=workflow%3A%22Node.js+CI%22)
+[![Build status](https://img.shields.io/github/actions/workflow/status/digitalbazaar/age-verification-context/main.yaml)](https://github.com/digitalbazaar/age-verification-context/actions/workflow/main.yaml)
 [![NPM Version](https://img.shields.io/npm/v/@digitalbazaar/age-verification-context.svg)](https://npm.im/@digitalbazaar/age-verification-context)
 
-> NPM package for the JSON-LD context for OverAge credentials.
+> Age Verification context for JSON-LD.
 
 ## Table of Contents
 
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-- [Developing](#developing)
 - [Commercial Support](#commercial-support)
 - [License](#license)
 

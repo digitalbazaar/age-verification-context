@@ -39,7 +39,7 @@ module.exports = function(config) {
 
     singleRun: true,
 
-    // enable / disable watching file and executing test whenever any
+    // enable / disable watching file and executing tests whenever any
     // file changes
     autoWatch: false,
 
@@ -47,7 +47,7 @@ module.exports = function(config) {
     // available preprocessors:
     // https://npmjs.org/browse/keyword/karma-preprocessor
     preprocessors: {
-      '*.spec.js': preprocessors,
+      '*.spec.js': preprocessors
     },
 
     webpack: {

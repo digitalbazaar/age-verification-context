@@ -1,13 +1,14 @@
 {
   "name": "@digitalbazaar/age-verification-context",
   "version": "2.0.1-0",
-  "description": "NPM package for the JSON-LD context for OverAge credentials.",
+  "description": "Age Verification context for JSON-LD.",
   "main": "js/index.js",
   "module": "./dist/context.esm.js",
   "files": [
     "contexts",
     "dist/context.js",
     "dist/context.esm.js",
+    "dist/context.*.txt",
     "js/**/*.js"
   ],
   "repository": {
@@ -58,6 +59,6 @@
     "serialize": "node bin/serialize.js",
     "test": "npm run lint && npm run build && npm run test-node && npm run test-karma",
     "test-karma": "karma start test/karma.conf.js",
-    "test-node": "cross-env NODE_ENV=test mocha --preserve-symlinks test/*.spec.js"
+    "test-node": "cross-env NODE_ENV=test mocha --preserve-symlinks test/**/*.spec.js"
   }
 }
