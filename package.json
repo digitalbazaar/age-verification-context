@@ -1,6 +1,6 @@
 {
   "name": "@digitalbazaar/age-verification-context",
-  "version": "2.1.0",
+  "version": "2.1.1-0",
   "description": "Age Verification context for JSON-LD.",
   "main": "js/index.js",
   "module": "./dist/context.esm.js",
