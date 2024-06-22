@@ -1,6 +1,6 @@
 # @digitalbazaar/age-verification-context ChangeLog
 
-## 2.1.0 - 2024-06-xx
+## 2.1.0 - 2024-06-22
 
 ### Added
 - Add `CBORLD_CODEC_VALUE` constant from the
